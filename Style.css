@@ -1,0 +1,73 @@
+img{
+     
+     
+    position: center;
+    height: 500px;
+    width: 780px;
+    padding-left: 250px;
+   
+}
+marquee{
+    color: green;
+     
+}
+a:hover{
+    color: red;
+}
+a:active{
+    color: green;
+}
+a{
+    text-decoration: none;
+}
+a{
+    color: white;
+    border: 50px;
+    margin: 50px;
+    background-color: purple;
+    
+}
+textarea{
+    padding-bottom: 500px;
+    color:darkblue;
+    background-color:white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     
+     
+}
+label{
+    color: green;
+    background-color: yellow;
+     
+}
+select{
+    color: crimson;
+}
+ 
+footer{
+    color:darkviolet;
+    background-color: white;
+    
+}
+body{
+    background-image: url(images/food.jpg);
+     height: 500px;
+    background-position: top;
+    background-repeat: no-repeat;
+}
+
+ 
+ 
+     
+
+.stl{
+    color:  white;
+    text-shadow: 50px;
+    background-color: blueviolet;
+    
+    
+}
+body{
+    background-color: aqua;
+     
+}
